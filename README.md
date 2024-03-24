@@ -10,7 +10,8 @@
 
 ## 🎥 Demo Video
 
-[![Demo]([https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2LX4WZmvsNmw](https://github.com/laiwenq/VLM_liquid_perception/blob/main/video_cover_img.png?raw=true))](https://youtu.be/LX4WZmvsNmw)
+[![Demo](https://github.com/laiwenq/VLM_liquid_perception/blob/main/video_cover_img.png?raw=true)](https://youtu.be/LX4WZmvsNmw)
+
 
 - Hardware and Materials used in Demo: 
    * 6-DoF mobile robot arm with wrist-mounted F/T sensor.
