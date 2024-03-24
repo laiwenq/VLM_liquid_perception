@@ -1,4 +1,5 @@
 <div align="center">
+## Vision-Language Model-based Physical Reasoning for Robot Liquid Perception
 <img src="https://github.com/laiwenq/VLM_liquid_perception/blob/main/flowchart.png?raw=true" style="width:800px;"/>
 
 
@@ -9,7 +10,7 @@
 
 ## 🎥 Demo Video
 
-[![Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FrMMeMTWmT0k)](https://youtu.be/LX4WZmvsNmw)
+[![Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2LX4WZmvsNmw)](https://youtu.be/LX4WZmvsNmw)
 
 - Hardware and Materials used in Demo: 
    * 6-DoF mobile robot arm with wrist-mounted F/T sensor by Moying.
