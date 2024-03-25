@@ -1,5 +1,5 @@
 <div align="center">
-## Vision-Language Model-based Physical Reasoning for Robot Liquid Perception
+Vision-Language Model-based Physical Reasoning for Robot Liquid Perception
 <img src="https://github.com/laiwenq/VLM_liquid_perception/blob/main/flowchart.png?raw=true" style="width:800px;"/>
 
 
